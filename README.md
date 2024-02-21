@@ -21,3 +21,7 @@ Create a very basic informational site that contains 4 pages: index, about, cont
    - 404.html should display anytime the user tries to go to a page not listed above
 
 1. Host live demo on Replit
+
+## Later Rewrite Using Express
+
+Take a look at the Node site you created in our first project. Rewrite it using Express! You should be able to do this with just one app.js file and a few `app.get()`s.
